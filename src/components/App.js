@@ -5,8 +5,8 @@ import ShowCharts from "./charts";
 const App = () => {
   return (
     <div className="ui container">
-      {/* <PostList /> */}
-      <ShowCharts />
+      <PostList />
+      {/* <ShowCharts /> */}
     </div>
   );
 };
